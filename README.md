@@ -5,7 +5,7 @@
 <p>System parts:</p>
 
 <ol>
-	<li>Mobile interface: login, feedback and thanks page</li>
+	<li>Mobile App: login, feedback and thanks page</li>
 	<li>Back-end: PHP and MySQL (?) to process and store data</li>
 	<li>A panel to show graphs about the results of feedbacks</li>
 </ol>
